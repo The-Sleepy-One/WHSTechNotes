@@ -6,3 +6,5 @@ I personally did not find any of the steps complicated or difficult. I encounter
 
 # September 17, 2024
 This week is a free week apparently?...
+# September 25, 2024
+Precision affects the outcome of a program by giving a more desirable result or possibly even the opposite. For example, when you shot an arrow at a target, you want it to hit closest to the middle. archery isn't just aim and fire. You must take in account for wind, pull back, and projectile drop. The more detail you take into mind the more of a desirable result youll get. Same goes with coding, but once you get the fundamentals youll just do it naturally. 
