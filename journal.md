@@ -8,3 +8,6 @@ I personally did not find any of the steps complicated or difficult. I encounter
 This week is a free week apparently?...
 # September 25, 2024
 Precision affects the outcome of a program by giving a more desirable result or possibly even the opposite. For example, when you shot an arrow at a target, you want it to hit closest to the middle. archery isn't just aim and fire. You must take in account for wind, pull back, and projectile drop. The more detail you take into mind the more of a desirable result youll get. Same goes with coding, but once you get the fundamentals youll just do it naturally. 
+
+# October 7, 2024
+Ive study music theory on my free time for the role of music composition. The main role of this is to produce music of course! Well, effectively and with quality. You'll probably wanna know a fair bit about music theory. Having a keen ear to pitches is wonderful to have. 3 to 2 years of music theory should be fine. Usually, people will look at you're experience over education. The music industry is always growing so there are plenty of opportunities. My career of music aligns with my interest in programming because you can't have a game without a banger soundtrack.
