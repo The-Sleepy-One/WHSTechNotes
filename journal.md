@@ -17,3 +17,8 @@ Ive study music theory on my free time for the role of music composition. The ma
 Programming or coding can improve problems thinking skills by making someone have to think outside the box. For instance, there are a million of ways to say hello, by the person you're speaking to will only understand one and you have to be very specific in the conversation. This can be troublesome at times.
 By understanding atleast the basis of programming and going through the hours of trouble it has. You'll soon naturally think outside the options that are presented. For example, say you have a block of iron. What would you do with it? Most people would probably sell or have ot as a house decore. Why not use it? Why not use it to repair your other metal appliances? Or make something cooler, better? 
 Yes, annoyingly....
+
+# October 21, 2024
+Ai is a difficult topic to describe because there is really so much to unravel.You might know AI as those silly image generators, but Ai is way more than that. Ai can help reduce the work load for coders/programmers giving them prefixes to work with. 
+
+On the other hand, alot of artist arr worried that AI will be able to make art better than actual artist. Same with music producer. Countless artist have spoken against ai due to this fact. Even the flim industry id potentially endanger.
