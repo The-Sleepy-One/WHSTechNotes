@@ -22,3 +22,7 @@ Yes, annoyingly....
 Ai is a difficult topic to describe because there is really so much to unravel.You might know AI as those silly image generators, but Ai is way more than that. Ai can help reduce the work load for coders/programmers giving them prefixes to work with. 
 
 On the other hand, alot of artist arr worried that AI will be able to make art better than actual artist. Same with music producer. Countless artist have spoken against ai due to this fact. Even the flim industry id potentially endanger.
+
+# November 18, 2024
+Technology has expanded the food industry greatly. Production, waste management, and ordering food has enhanced so much during these times is starting to become very accessible to all. Some negative effects though is many people lose jobs from technology. 
+
