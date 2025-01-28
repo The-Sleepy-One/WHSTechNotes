@@ -27,11 +27,9 @@ On the other hand, alot of artist arr worried that AI will be able to make art b
 Technology has expanded the food industry greatly. Production, waste management, and ordering food has enhanced so much during these times is starting to become very accessible to all. Some negative effects though is many people lose jobs from technology. 
 
 # January 28, 2025
-
-Jimmy    Honda. Drilled hole
-
-Kayla    Sierra. Fixed wrong problem
-
-Bart     Toyota.  Stains
-
-Harrison  Forester. Left oil cap off. 
+|Name    |Car     |Mistake            |
+|:-------|:-------|:------------------|
+|Jimmy   |Honda.  |Drilled hole       |
+|Kayla   |Sierra. |Fixed wrong problem|
+|Bart    |Toyota. |Stains             |
+|Harrison|Forester|Left oil cap off.  |
