@@ -33,3 +33,7 @@ Technology has expanded the food industry greatly. Production, waste management,
 |Kayla   |Sierra. |Fixed wrong problem|
 |Bart    |Toyota. |Stains             |
 |Harrison|Forester|Left oil cap off.  |
+
+# March 17, 2025
+I use FL studio to make music/compose music on a daily. This allows me to express my musical prowess and challenges my composition skills.
+
