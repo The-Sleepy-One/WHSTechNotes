@@ -37,3 +37,15 @@ Technology has expanded the food industry greatly. Production, waste management,
 # March 17, 2025
 I use FL studio to make music/compose music on a daily. This allows me to express my musical prowess and challenges my composition skills.
 
+# March 31, 2025
+I am feeling stressed with all the upcoming testing and physically I feel tired because of my wacky sleep schedule. the most stressful part of the day has to be 3rd period which is my English class. ive been struggling yo sometimes keep up with the work. 
+
+# April 7, 2025
+I believe the most useful features AI will offer in my opinion are having something to refer to and check work with. Ai Is always there which means you can study at anytime and for how ever long. 
+
+# April 14, 2025
+The Florida ban is beneficial to the working environment because students won't be waiting for the next buzz, beep, or flash on their phone distracting them from working and even slowing work down.
+
+BUT! These policies can be a risk to student study and mental health. Students could be stuck somewhere (for example the bathroom) maybe after a fight unable to call for help. If a student is having a medical issue and the emergency number can't pick up what are first responders supposed to do?
+
+
