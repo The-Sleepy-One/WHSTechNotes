@@ -48,4 +48,10 @@ The Florida ban is beneficial to the working environment because students won't 
 
 BUT! These policies can be a risk to student study and mental health. Students could be stuck somewhere (for example the bathroom) maybe after a fight unable to call for help. If a student is having a medical issue and the emergency number can't pick up what are first responders supposed to do?
 
+# September 8, 202
+Computer science is very valuable in filmmaking because it helps with editing, animation, and special effects. Programs like Adobe Premiere Pro use AI to speed up editing by suggesting cuts or fixing color. In animated movies like *Toy Story*, computer algorithms bring characters to life with realistic movement and lighting. Filmmakers also use coding to create new tools for visual effects and 3D modeling. Thanks to computer science, movies can be made faster, look better, and tell more creative stories.
+
+# September 2, 2025
+
+I believe that using AI tools for “vibe coding” can be helpful, but students need to use them responsibly. AI tools like ChatGPT or GitHub Copilot can explain coding concepts and help students solve problems faster, especially when they’re stuck or learning something new. For example, if a student doesn’t understand how loops work, they can ask AI for examples and explanations in real time. However, relying too much on AI might stop students from truly learning how to code on their own. If they always copy and paste solutions, they may struggle when they have to code without help. So, while AI can be a great learning assistant, it should be used to support understanding, not replace effort and practice.
 
