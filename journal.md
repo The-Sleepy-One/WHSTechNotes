@@ -52,6 +52,9 @@ BUT! These policies can be a risk to student study and mental health. Students c
 Computer science is very valuable in filmmaking because it helps with editing, animation, and special effects. Programs like Adobe Premiere Pro use AI to speed up editing by suggesting cuts or fixing color. In animated movies like *Toy Story*, computer algorithms bring characters to life with realistic movement and lighting. Filmmakers also use coding to create new tools for visual effects and 3D modeling. Thanks to computer science, movies can be made faster, look better, and tell more creative stories.
 
 # September 2, 2025
-
 I believe that using AI tools for “vibe coding” can be helpful, but students need to use them responsibly. AI tools like ChatGPT or GitHub Copilot can explain coding concepts and help students solve problems faster, especially when they’re stuck or learning something new. For example, if a student doesn’t understand how loops work, they can ask AI for examples and explanations in real time. However, relying too much on AI might stop students from truly learning how to code on their own. If they always copy and paste solutions, they may struggle when they have to code without help. So, while AI can be a great learning assistant, it should be used to support understanding, not replace effort and practice.
+
+# September 22, 2025
+I think working in a virtual store for real money is a good idea for the future of jobs. Companies like IKEA are already testing this by letting people work in virtual reality to help customers shop online. This shows that virtual jobs can be just as useful as real-world ones, especially as technology keeps improving. Many people already spend time in virtual worlds, like games or the metaverse, so turning that into a paid job could create more opportunities. It also helps people who can't work in person, like those with disabilities or who live in remote areas. Virtual jobs could make work more flexible and accessible for everyone. That’s why I believe they’re a smart step forward.
+
 
