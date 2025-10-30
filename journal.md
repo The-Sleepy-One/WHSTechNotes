@@ -60,4 +60,6 @@ I think working in a virtual store for real money is a good idea for the future 
 # September 30, 2025
 “67” isn’t just a number when people say it. It’s more like an inside joke that spread too far to die. Someone once said it at the right time, and everyone laughed hard. Now it pops up in random conversations, whispered in hallways or shouted across rooms. It means nothing and everything at once. The tone is chaotic, funny, mysterious. People keep saying it because confusion is deliciously contagious.
 
+# October 6, 2025
+If I were in charge of my school, I’d make technology a tool, not a distraction. Cell phones would stay silent during class but could be used at lunch or free time. Chromebooks would be for learning, though I’d allow short breaks for creative or educational games. AI tools like ChatGPT would be encouraged for studying, writing help, and problem-solving. Blocking all games doesn’t teach responsibility—balance does. With smart rules, technology could make school more engaging, not less.
 
