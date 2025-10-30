@@ -63,3 +63,89 @@ I think working in a virtual store for real money is a good idea for the future 
 # October 6, 2025
 If I were in charge of my school, I’d make technology a tool, not a distraction. Cell phones would stay silent during class but could be used at lunch or free time. Chromebooks would be for learning, though I’d allow short breaks for creative or educational games. AI tools like ChatGPT would be encouraged for studying, writing help, and problem-solving. Blocking all games doesn’t teach responsibility—balance does. With smart rules, technology could make school more engaging, not less.
 
+# October 14, 2025
+
+
+---
+
+### 🧠 **Java Variables Practice Quiz**
+
+**Name:** ____________________  **Date:** ____________________
+
+---
+
+#### **Part 1: Multiple Choice (1 point each)**
+
+1. Which of the following correctly declares an integer variable in Java?
+   a) `int number;`
+   b) `num int;`
+   c) `integer number;`
+   d) `int = number;`
+
+2. What is the correct way to assign the value 10 to a variable named `x`?
+   a) `x == 10;`
+   b) `int x == 10;`
+   c) `x = 10;`
+   d) `int x = 10;`
+
+3. Which data type would you use to store a single character?
+   a) `String`
+   b) `char`
+   c) `int`
+   d) `double`
+
+4. What is the value of `result` after this code runs?
+
+   ```java
+   int a = 5;
+   int b = 2;
+   int result = a + b * 3;
+   ```
+
+   a) 21  b) 7  c) 11  d) 6
+
+5. Which of these is a valid variable name in Java?
+   a) `2cool4u`
+   b) `my-name`
+   c) `myName`
+   d) `class`
+
+---
+
+#### **Part 2: Short Answer (2 points each)**
+
+6. What is the difference between `int` and `double`?
+
+7. Why must variables be declared before they are used in Java?
+
+8. What would this code print?
+
+   ```java
+   String name = "Luna";
+   System.out.println("Hello " + name);
+   ```
+
+---
+
+#### **Part 3: Coding Practice (3 points each)**
+
+9. Write a short Java snippet that declares a variable for your age and prints it in a sentence.
+   *(Example output: “I am 16 years old.”)*
+
+10. Fix the errors in this code:
+
+```java
+string city = "Dallas"
+System.out.println("I live in " + city);
+```
+
+---
+
+**Bonus (2 pts):**
+Why is it helpful to choose descriptive variable names in your programs?
+
+---
+
+Would you like me to make a **Google Forms version** or a **printable PDF** of this quiz for classroom use?
+
+
