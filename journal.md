@@ -148,4 +148,15 @@ Why is it helpful to choose descriptive variable names in your programs?
 
 Would you like me to make a **Google Forms version** or a **printable PDF** of this quiz for classroom use?
 
+# October 20, 2025
+Name     Class    Seat
+Franklin Second   91A
+Hardeep   Third   61F
+Maria     First   35B
+
+# October 27, 2025
+Name   Main Dish      Desert
+Fiona  Goda Goda     Creme Brulee 
+Tobias Shrimp Ceishe French Apple 
+Leanne Beef Wellington RaspberryTiramisu 
 
