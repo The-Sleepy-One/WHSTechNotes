@@ -166,3 +166,6 @@ I'm look forward for pumpkin pie and the family who is coming over. The joy of s
 # December 7, 2025
 Im using my free journal for this week.
 
+# December 15, 2025
+Im gonna spend time with my family and sleep in as much as i want. Also hopefully get some music done and hang out with my best friend.
+
