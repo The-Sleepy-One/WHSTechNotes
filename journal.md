@@ -169,3 +169,5 @@ Im using my free journal for this week.
 # December 15, 2025
 Im gonna spend time with my family and sleep in as much as i want. Also hopefully get some music done and hang out with my best friend.
 
+# January 6, 2026
+During the winter break I used technology in many different ways. I unilzed technology to calculate how much a centerain package would cost and also for different repices online. I also used technology to write music.
