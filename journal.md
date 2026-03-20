@@ -171,3 +171,84 @@ Im gonna spend time with my family and sleep in as much as i want. Also hopefull
 
 # January 6, 2026
 During the winter break I used technology in many different ways. I unilzed technology to calculate how much a centerain package would cost and also for different repices online. I also used technology to write music.
+
+# February 2, 2026
+
+Behaving professionally in shared spaces means being respectful, responsible, and aware of how your actions affect others. This includes things like staying focused, not being disruptive, and following rules.
+
+Some habits that show professionalism are being on time, listening when others are speaking, and keeping your area clean. It also means using appropriate language and treating everyone with respect.
+
+These behaviors matter because they help create a positive environment where everyone can work and learn better. When people act professionally, it makes the space more comfortable and productive for everyone.
+
+
+# February 23, 2026
+
+High-speed timing systems had the biggest impact because they improved fairness.
+In speed skating, times were measured to thousandths of a second, deciding winners in very close races.
+This makes results accurate and fair, so no one wins or loses because of human error.
+
+
+# March 2, 2026
+
+Job 1
+Company: USAA
+Job Title: Software Engineer – Information Security (Mid-Level)
+
+Education Required:
+
+Bachelor’s degree OR equivalent experience 
+
+Experience Required:
+
+4+ years in IT or security engineering 
+
+2+ years working on software development lifecycle projects 
+
+Skills / Tools / Languages:
+
+Programming: Java, Python, Bash, PowerShell 
+
+DevSecOps practices, CI/CD pipelines
+
+Cloud technologies and security tools
+
+Troubleshooting and system security design 
+
+Certifications (if any):
+
+Security certifications preferred (not strictly required) 
+
+What the job does (1–2 sentences):
+This job focuses on building secure software systems, protecting company data, and ensuring applications follow security and compliance standards.
+
+Job 2
+Company: Booz Allen Hamilton
+Job Title: Cybersecurity Analyst
+
+Education Required:
+
+Bachelor’s degree (or sometimes equivalent experience)
+
+Experience Required:
+
+3–6+ years in cybersecurity or cloud security
+
+Experience with cloud platforms (AWS, Azure, Google Cloud)
+
+Skills / Tools / Languages:
+
+Security tools: Defender for Cloud, Prisma Cloud, Tenable.io
+
+Scripting: Python or PowerShell
+
+Knowledge of security frameworks (NIST, RMF)
+
+Certifications (if any):
+
+Required: Security+, CySA+, CISSP, or similar
+
+What the job does (1–2 sentences):
+This role analyzes security risks, monitors systems for threats, and helps protect organizations from cyberattacks, especially in cloud environments
+
+I would prefer the Software Engineer job at USAA because it focuses on building technology rather than only analyzing security. This job requires programming skills like Python or Java and experience developing software systems. It also involves working with cloud technologies and DevSecOps practices, which are important in modern tech careers. I am interested in coding and creating applications, so learning programming languages and working on real software projects matches my interests. The skills required for this job connect to classes like computer science and could help me build a strong future career in technology.
+
